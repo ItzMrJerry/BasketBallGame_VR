@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.vrschoolopdrachturp.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "F:\\Unity Projecten\\Shader-Graph-Tutorials-master\\VrSchoolOpdracht URP\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "VrSchoolOpdracht URP [Testing]"
+        }
+      }
+    }
+  ]
+}
